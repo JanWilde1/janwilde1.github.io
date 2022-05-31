@@ -5,7 +5,7 @@ a:hover {color:#FF7A02;border-bottom:5px solid #00ff00; cursor:url(images/paw.pn
 a:active {color:#00ff99;}  /* selected link */
 a:visited {color:#ff33cc;}
 body {
-	background-image: url("images/frank.png");
+	background-image: url("frank.png");
 	background-color: #ff33cc;
 	font-family: "Arial", "Times new roman", sans-serif;
 	font-size:150%;
