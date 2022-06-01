@@ -32,7 +32,6 @@ img {
 	padding:50px;
 	width: 700px; 
 	background-color:#fff3e6;
-	background-image: url("images/daisy.png");
 	margin: 35px auto;
 	text-align: center;
 	box-shadow: 20px 20px 20px #ff751a;
@@ -46,7 +45,6 @@ img {
 	padding:50px;
 	width: 700px; 
 	background-color:#f2e6ff;
-	background-image: url("images/banana.png");
 	margin: 35px auto;
 	text-align: center;
 	box-shadow: 20px 20px 20px #66ffff;
@@ -60,15 +58,12 @@ img {
 	padding: 50px;
 	width: 700px; 
 	background-color:#cce6ff;
-	background-image: url("images/monarch.png");
 	margin: 35px auto;
 	text-align: center;
 	box-shadow: 20px 20px 20px #ffffff;
 	border-radius: 22px;
 	border:#00ff00 20px groove;
 }
-
-/* I stole this from http://visualidiot.com/articles/css3 It recreates the old <blink> tag.*/
 
 .blink {
     -webkit-animation: blink .75s linear infinite;
